@@ -1,3 +1,10 @@
+/* ==UserStyle==
+@name         RED Dark Edit
+@namespace    github.com/CearUway/red_dark-edit
+@version      0.01
+@description  Fixes
+==/UserStyle== */
+
 .group_torrent a {
  color:#aaa; 
  /* !important */
