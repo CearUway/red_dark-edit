@@ -5,17 +5,19 @@
 @description  Fixes
 ==/UserStyle== */
 
-.group_torrent a {
- color:#aaa; 
- /* !important */
-}
+@-moz-document domain("redacted.ch") {
+    .group_torrent a {
+        color: #aaa;
+        /* !important */
+    }
 
-.group_image:hover img {
- border-radius:0;
- /* position:absolute;
- -webkit-transform:scale(3.2);
- -ms-transform:scale(3.2);
- transform:scale(3.2);
- left:2px;
- top:2px */
+    .group_image:hover img {
+        border-radius: 0;
+        /* position:absolute;
+    -webkit-transform:scale(3.2);
+    -ms-transform:scale(3.2);
+    transform:scale(3.2);
+    left:2px;
+    top:2px */
+    }
 }
